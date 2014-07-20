@@ -1,18 +1,3 @@
-Skip to content
- 
-This repository 
-Explore
-Gist
-Blog
-Help
-adityahub adityahub
- 
- 
-272  Watch 
-  Star 3,184
- Fork 6,269 PUBLIC phonegap/phonegap-start
- branch: master   phonegap-start / www / config.xml
-Michael Brooks mwbrooks on Jun 13 Version 3.5.0
 
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -96,7 +81,7 @@ Michael Brooks mwbrooks on Jun 13 Version 3.5.0
     <icon src="images/icon.png" gap:platform="winphone"   gap:role="background" />
 
     <!-- Define app splash screen for each platform. -->
-    <gap:splash src="images/splash.jpg"       gap:platform="android" gap:qualifier="port-ldpi" />
+    <gap:splash src="http://imgur.com/Lqdp0Gg"       gap:platform="android" gap:qualifier="port-ldpi" />
     
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg"      gap:platform="winphone" />
 
